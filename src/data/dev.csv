@@ -1,0 +1,614 @@
+text,aspect_start,aspect_end,opinion_start,opinion_end,sentiment,category
+tôi ch?n vanda qua phía ngoài,3,3,0,1,positive,APPEARANCE
+erik ch?i th?y d? th??ng lúc che ch? cho thúy ngân n?u có mùa hai ph?i có erik và thúy ngân nhé,0,1,1,10,positive,APPEARANCE
+erik ch?i th?y d? th??ng lúc che ch? cho thúy ngân n?u có mùa hai ph?i có erik và thúy ngân nhé,17,20,11,616,positive,APPEARANCE
+team bray nh? m?t g? th?t s? quá ??nh nh? là ví d?,0,1,7,8,positive,OTHER
+top 9 này mình mê double 2t 2k right mikelodic quang anh ryder tez pháp ki?u ra phía,5,15,4,4,positive,SPECIALIZE
+karik quá cháy h?n các hu?n luy?n viên mãi ??nh anh karik nh? là,0,0,2,11,positive,OTHER
+tr?i ?i t?p gì mà hay x?u v tr?i b?t ng? tuy v?y,-1,-1,0,10,positive,SPECIALIZE
+có ai nghe th?y âm thanh b? rè rè không m?t khác,4,5,6,8,negative,TECHNICAL
+2t x?ng ?áng nh?ng h?i ti?t cho hch không l?t vào top 3 do ?ó,0,0,1,2,positive,SPECIALIZE
+2t x?ng ?áng nh?ng h?i ti?t cho hch không l?t vào top 3 do ?ó,7,7,4,12,positive,SPECIALIZE
+hà mã hát cao chua lét có ch? h?i l?i nh? v?y là,0,1,2,9,negative,SPECIALIZE
+"team anh thái vg th?t sâu l?ng , c?m ?n anh trai ?ã v? t?i vi?t nam muôn ??i",0,3,4,6,positive,OTHER
+"team anh thái vg th?t sâu l?ng , c?m ?n anh trai ?ã v? t?i vi?t nam muôn ??i",1,3,8,18,positive,OTHER
+tui ngh? âm thanh b? vang quá nhi?u khó nghe rõ l?i ng??i d?n ch??ng trình,2,3,4,15,negative,TECHNICAL
+lúc trao gi?i thi?u anh karik thì ph?i th? nh?ng,4,5,,,negative,TECHNICAL
+a karik c?t gi?ng lên rap cái là tui c?m th?y cái gì ?ó r?t ??ng c?p t?o nên,0,1,2,16,positive,SPECIALIZE
+chung k?t n?m nay nh?c ch?t l??ng h?n h?n m?y n?m tr??c,0,3,4,11,positive,SPECIALIZE
+nói th?t r?t thích nh?ng trò k?u này vui l?m,4,7,2,3,positive,OTHER
+nói th?t r?t thích nh?ng trò k?u này vui l?m,4,8,8,9,positive,SPECIALIZE
+quá ??nh các ??u x?ng ?áng là quán quân trong lòng khán gi? . tuy?t v?i,,,0,15,positive,OTHER
+"ch??ng trình ??n ??n , d?p m? cái ct rap vi?t ?i",0,1,2,3,negative,SPECIALIZE
+karik thái vg double2t ??nh quá theo,0,3,4,5,positive,OTHER
+beat wokup hay quá nghe ?ã tai truy?n thông ??n,0,1,2,6,positive,SPECIALIZE
+thích cái áo tr??ng giang m?c ghê ,,,,,neutral,OTHER
+nói d? nhìn ông cris thích cái cách ?ng nhìn v? khoác vai v? su?t bu?i nhìn c?ng quá tr?i,3,4,5,19,positive,APPEARANCE
+big gi?i thi?t c? 2 ch??ng trình rap ??u t?o quán quân,0,0,1,11,positive,SPECIALIZE
+lê d??ng b?o lâm ch?i c?c quá,0,3,4,6,negative,CHARACTERISTIC 
+gi?i gì chán th? 20 50 10 250 thua c? game th?,0,0,2,2,negative,TECHNICAL
+nh?c dl gì nghe ?éo hi?u câu l nào c? ?i theo phía ngoài,0,0,3,8,negative,SPECIALIZE
+?èn sân kh?u thi?u sáng v?y,0,2,3,5,negative,TECHNICAL
+hu?n luy?n viên t?p này không th? ??nh h?n,0,2,3,8,positive,SPECIALIZE
+quá x?ng ?áng ng??i mi?n núi ch?t c?nh báo,3,6,0,2,positive,OTHER
+t?p cu?i này d? th??ng th?t yêu sài gòn c?a mình và yêu c? 2 ngày 1 ?êm,0,2,3,5,positive,SPECIALIZE
+t?p cu?i này d? th??ng th?t yêu sài gòn c?a mình và yêu c? 2 ngày 1 ?êm,7,10,6,6,positive,OTHER
+t?p cu?i này d? th??ng th?t yêu sài gòn c?a mình và yêu c? 2 ngày 1 ?êm,14,17,12,12,positive,OTHER
+mùa này th?t s? làm mình ?n t??ng sâu s?c . quá tuy?t v?i,0,1,2,13,positive,SPECIALIZE
+nh?c mùa này hay quá ngày nào c?ng nghe luôn ?y nghe ?úng tích c?c,0,2,3,14,positive,SPECIALIZE
+?a alo có hi?n t??ng tr? ti?ng gi?a hình ?nh và âm thanh nên c?n ??ng b? l?i,8,12,3,5,negative,TECHNICAL
+"có ai nh? tui không , coi ch? y?u coi dàn hu?n luy?n viên và ban giám kh?o rap , ông thái rap ??nh th?t sau cùng",21,23,24,24,positive,SPECIALIZE
+ôi l?n ??u nghe anh thái rap luôn hay vãi truy?n thông,4,5,8,9,positive,SPECIALIZE
+sao lúc trao gi?i o th?y karik t?i sao o lên sân kh?u vui cùng m?i ng??i .,6,6,0,16,neutral,APPEARANCE
+??t g b?o là anh mong anh mong r?ng anh s? bi?t cách s?ng hahahaha,,,,,neutral,OTHER
+justate và 2t hay quá quán quân th?t x?ng ?áng . quá nhi?u bài hot phía d??i,0,2,3,14,positive,OTHER
+justate và 2t hay quá quán quân th?t x?ng ?áng . quá nhi?u bài hot phía d??i,5,6,7,9,positive,OTHER
+qu?ng cáo ít h?n ???c không v?y cu?i cùng,0,1,0,6,negative,TECHNICAL
+ph?n di?n c?a 2t vs just hay quá nghe mà nghi?n nh? th? ?y,0,5,6,6,positive,SPECIALIZE
+thái vg rap ??nh th?t qua,0,1,2,4,positive,SPECIALIZE
+à màn che m?t c?a karik t?i nay là khó hi?u nh?t nha nh?ng mà,1,5,8,12,negative,APPEARANCE
+??nh kh?i chê vào ?âu chúc m?ng 2t v? phía bên ngoài,7,7,0,7,positive,OTHER
+n?u có rap vi?t mùa 4 s? không bao gi? xem n?a .,2,5,7,10,negative,OTHER
+"k?t qu? ?ã ???c s?p ??t s?n , nh?ng chúng ta s? có quán quân c?a chính mình nói cách khác",0,1,3,6,negative,SPECIALIZE
+bâu rap ít quá bên trong,0,0,1,3,negative,SPECIALIZE
+"quá hay , ai c?ng hay . bài chung c?a ??i anh thái xu?t s?c quá tuy v?y",,,0,5,positive,OTHER
+"quá hay , ai c?ng hay . bài chung c?a ??i anh thái xu?t s?c quá tuy v?y",7,12,13,15,positive,SPECIALIZE
+ngh? là ?a v?y là h?t r á sao nhanh v?y m?i có 15 t?p thui mà bu?n v,,,,,negative,TECHNICAL
+???c c?u t? nón vàng mà vô ??ch luôn là th?y ch??ng trình s?p x?p ghê r?i .,,,0,7,positive,SPECIALIZE
+"btc ?ã r?t nhân v?n , tuy?t v?i",0,0,3,4,positive,CHARACTERISTIC 
+?ã 1 tháng k? t? khi xem t?p cu?i t th?y cu?c s?ng t nh?t nh?o quá bây ?i,,,,,neutral,OTHER
+hu?nh công hi?u làm tôi n? tung tin t?c cho,0,2,,,positive,OTHER
+ph?i công nh?n anh te ?i mel m??t ghê gây ra,3,4,0,8,positive,SPECIALIZE
+anh tr?n thành d?n ch??ng trình quá hay và tài n?ng,0,2,3,10,positive,SPECIALIZE
+fan anh andre mà th?t s? bài này anh làm nó c? sao sao ?y,1,2,0,14,positive,SPECIALIZE
+ nói d? d??ng lâm ?i xin g?o d? th??ng quá tr?i,2,3,4,10,positive,APPEARANCE
+k ngoài d? ?oán d2t x?ng ?ang quá ??c bi?t nh?t,4,4,5,7,negative,SPECIALIZE
+ch?i ?i ch? ngân t?p này xinh thi?t á,2,3,4,8,positive,APPEARANCE
+"tr?i quán quân ?úng b?n mình thích luôn , không ng? luôn nh?ng",,,0,11,positive,SPECIALIZE
+t?p này quá là hay luôn ? th?t s? ch??ng trình quá tuy?t v?i xu?ng phía bên ngoài là,0,1,2,6,positive,SPECIALIZE
+t?p này quá là hay luôn ? th?t s? ch??ng trình quá tuy?t v?i xu?ng phía bên ngoài là,9,9,11,13,positive,SPECIALIZE
+??nh quá nghe mu?n cháy tai nghe lun á phía d??i,,,0,7,positive,SPECIALIZE
+sao lúc trao gi?i o th?y karik t?i sao o lên sân kh?u vui cùng m?i ng??i . tuy,6,6,0,16,neutral,APPEARANCE
+v? ông ?? mixi h?t v? cho th?ng e d2t,9,9,,,neutral,OTHER
+big hay quá d??i phía ngoài,0,0,1,1,positive,OTHER
+?ang l? ph?i là 24kright quán quân,4,4,,,neutral,OTHER
+không còn gì tuy?t v?i và hài lòng h?n th? này ti?p theo,,,3,7,positive,OTHER
+team bray ?úng ??nh luôn ch?i,0,1,3,3,positive,OTHER
+t?c nhiên ki?u này ch?c khó có mùa 3,7,8,,,neutral,SPECIALIZE
+tui th?y không hi?u sao anh voi nghe gi?ng erik qua,5,6,7,10,neutral,SPECIALIZE
+th? thoii h?t nhanh v?y mu?n xem thêm n?a,,,,,negative,TECHNICAL
+"bài nào c?ng hit , tuy?t v?i",,,3,3,positive,SPECIALIZE
+"bài nào c?ng hit , tuy?t v?i",,,5,6,positive,SPECIALIZE
+h?t mùa 2 r?i cris v?n ng? kh?,4,4,0,7,neutral,SPECIALIZE
+có thuý ngân s? vui nhi?u h?n r?i không khí 7 n? ?ã tr? l?i r?i qua phía ngoài,1,2,4,6,positive,APPEARANCE
+"thích bài c?a big nh?t , t?i bài c?a jus ??n phía ngoài",1,3,0,4,positive,SPECIALIZE
+"thích bài c?a big nh?t , t?i bài c?a jus ??n phía ngoài",7,9,0,9,positive,SPECIALIZE
+dt2 x?ng ?áng mà . mà ai top 9 c?ng x?ng ?áng quá luôn,0,0,1,3,positive,SPECIALIZE
+dt2 x?ng ?áng mà . mà ai top 9 c?ng x?ng ?áng quá luôn,,,6,13,positive,SPECIALIZE
+7 bài chung k?t nghe phê không th? t? . chúc m?ng 2t,0,3,4,8,positive,SPECIALIZE
+7 bài chung k?t nghe phê không th? t? . chúc m?ng 2t,12,12,10,11,positive,OTHER
+ng?c ch?i d? r?t không tâm lý gì h?t b? c? gi?n hoài theo nguyên t?c,0,0,1,6,negative,APPEARANCE
+mikelodic không ???c gi?i t? luôn xu?t s?c,0,0,1,3,negative,OTHER
+2t x?ng ?áng ?ã không làm ng c?u mình th?t v?ng,0,0,1,2,positive,OTHER
+krik ?êm nay sao th? nh? . im re t? ??u ??n cu?i . trùm ??u . không hi?u nh?,0,0,7,8,neutral,APPEARANCE
+qu? rap campuchia không hi?u gì mà nghe dính ??c bi?t nh?t,1,2,3,5,negative,SPECIALIZE
+qu? rap campuchia không hi?u gì mà nghe dính ??c bi?t nh?t,1,2,7,8,positive,SPECIALIZE
+thích cái flow ti?ng anh c?a thái vg . nghe ?ã tai th?t s? ??n phía,2,7,0,0,positive,OTHER
+thích cái flow ti?ng anh c?a thái vg . nghe ?ã tai th?t s? ??n phía,2,7,9,11,positive,SPECIALIZE
+b?p m? trai là ?úng r?i m? b?p r?c và phúc h?u r?t th? nh?ng,0,0,1,5,positive,APPEARANCE
+thua mike nh?ng th?ng rap vi?t,6,7,8,12,positive,APPEARANCE
+bray ??nh vút,0,0,1,2,positive,OTHER
+xem chtrinh vì bà ki?u v?i bà liu thui,3,7,0,8,positive,OTHER
+tóm g?n ai nói gì thì nói nh?ng mình v?n thích ch? ngân vì ch? ngân ch?i r?t h?t mình,11,12,10,10,positive,OTHER
+tóm g?n ai nói gì thì nói nh?ng mình v?n thích ch? ngân vì ch? ngân ch?i r?t h?t mình,14,15,16,19,positive,APPEARANCE
+th??ng th??ng vô ?iêu ki?n bray và 24k right,5,8,0,4,positive,OTHER
+bài này hch chi?n vãi ch??ng,2,2,3,3,positive,APPEARANCE
+??i tr??ng giang ch?i h?n thua r?t d?m ??c bi?t là,0,2,3,7,negative,APPEARANCE
+d? nhiên ông ht2 l?t rau thôi mà m?t c?ng quá,2,3,4,10,negative,APPEARANCE
+ki?u ki?u ngô ki?n huy ch?i hay thi?t ch? nhìn k? các b?c ?nh và nh? r?t k?,2,4,5,8,positive,SPECIALIZE
+ki?u ki?u ngô ki?n huy ch?i hay thi?t ch? nhìn k? các b?c ?nh và nh? r?t k?,2,4,9,17,positive,APPEARANCE
+hi hi ?? phân gi?i trông có chán c? ch?,2,4,5,9,negative,TECHNICAL
+ki?u là c? b?o ch? ngân hài nh?t nh?ng không có là không vui nha,4,5,6,14,positive,APPEARANCE
+ nói d? bà nhi ch?i hay hài mà nhi?t tình dã man cute x?u,2,3,4,13,positive,APPEARANCE
+càng ngày càng th?y tr??ng giang ki?u gì á thái ?? không ?a n?i,4,5,9,13,negative,APPEARANCE
+mình ngh? ch??ng trìn hãy làm 10 t?p và gi? nguyên dàn cast nhé,,,2,7,neutral,OTHER
+trang ph?c 2t nhìn bi?t ch?t r?i,0,2,3,6,positive,APPEARANCE
+bài c?a big v?i tez h?p tai dã man nghe phát dính luôn nh? là,0,4,5,12,positive,SPECIALIZE
+t?t c? k?ch b?n ?ã ???c biên h?t r?i,0,3,5,6,negative,SPECIALIZE
+"sao tui mê ông karik ghê á chèn , cu?i cùng c?ng ???c nghe anh hát",3,4,0,7,positive,OTHER
+"sao tui mê ông karik ghê á chèn , cu?i cùng c?ng ???c nghe anh hát",3,4,9,15,positive,SPECIALIZE
+3 mùa rap vi?t không bài nào hay b?ng bài richchoi v? phía bên trong,0,3,4,10,negative,SPECIALIZE
+th? là dt2 có ti?n gi? n? ms r?i di chuy?n v?,,,,,neutral,OTHER
+ch??ng trình d? th??ng quá lun,0,1,2,3,positive,SPECIALIZE
+"nh?c c?a 2t nghe hay nh?t r?i , vô ??ch x?ng ?áng lên là",0,1,3,6,positive,SPECIALIZE
+mùa nào bài fet vs te c?ng ngon,2,5,7,7,positive,OTHER
+n?m nay gi?i th??ng ít ti?n quá,2,3,4,5,negative,TECHNICAL
+mau h?t ghê không b? xót t?p nào m?i ng??i ai c?ng vui vui d? th??ng h?t mình ??i mùa 8 r?t v? phía ngoài,,,,,positive,OTHER
+suboi luôn nh??ng ??t di?n cho các b h?p tác .,0,0,,,positive,CHARACTERISTIC 
+nghe vanda ráp không hi?u mà nghe cu?n th?t s? nh?ng mà,1,2,3,4,negative,SPECIALIZE
+nghe vanda ráp không hi?u mà nghe cu?n th?t s? nh?ng mà,1,2,6,7,positive,SPECIALIZE
+chúc 2t g?t hái nhi?u thành công n?a ? ng mi?n núi ch?t ra bên ngoài là,1,1,0,12,positive,OTHER
+cái lúc mà ch? qu?nh anh ?i vào á anh cris ch?y ôm nhìn d? th??ng ghê á ??n phía bên ngoài,9,10,,,positive,APPEARANCE
+quang hùng masterd ch?ng em trên phía,0,2,3,4,positive,OTHER
+"2t và 24k ??u x?ng ?áng , chúc m?ng tình b?n 2 ??a vào",0,2,3,12,positive,SPECIALIZE
+th?ng rider rap nghe không hi?u 1 cái gì luôn trên phía là,0,1,2,9,negative,SPECIALIZE
+n?u nói chính xác v? hài nh?t trong 7 n? ch? có th? là th? vinh hài nh?t,14,15,16,17,positive,CHARACTERISTIC 
+x?p s?p h?t r?i,,,,,negative,OTHER
+karik rap không ???c hay l?m,0,1,2,5,negative,SPECIALIZE
+t?p cu?i mà nhi?u lúc âm thanh d? quá,0,1,5,8,negative,TECHNICAL
+anh quang hùng v?a t??i trai v?a d? th??ng ghê t?i,0,2,4,5,positive,APPEARANCE
+anh quang hùng v?a t??i trai v?a d? th??ng ghê t?i,0,2,7,8,positive,CHARACTERISTIC 
+justate t?p này ch?i c?n à sao hành ??ng b?i r?i th?,0,0,1,12,negative,APPEARANCE
+"smo gi?ng sang th?t s? , quá x?ng ?áng trong vòng chung k?t trên",0,0,1,12,positive,SPECIALIZE
+rap tình th??ng và,,,,,negative,OTHER
+quán quân rapviet nh?ng t?ch moirap phát hi?n,,,,,neutral,OTHER
+hoàng h?i gi?ng c?c ??c bi?t r?t tuy?t xu?ng phía ngoài là,0,1,2,7,positive,SPECIALIZE
+ta xu?ng núi b?ng tr? thành top 1 sever,,,,,neutral,OTHER
+vanda rap dù không hi?u gì mà v?n th?y hay,0,1,3,5,negative,SPECIALIZE
+vanda rap dù không hi?u gì mà v?n th?y hay,0,1,9,9,positive,SPECIALIZE
+karik trông m?t m?t th? nh?,0,0,1,5,negative,APPEARANCE
+"ng??i mi?n núi ch?t , nay ch?t nh?t",0,3,6,7,positive,OTHER
+tôi th?y team bigdady hay nh?t lên là,2,3,4,4,neutral,OTHER
+ki?u thúy ngân nói câu nào là c? nhóm ?? không k?p nên vui vui sao á qua là,1,2,13,14,positive,APPEARANCE
+anh h?i vs ch? chi mà 1 c?p thi?t thì là c?p vocal kh?ng luôn á mê ship thuy?n này nhen phía trong là,0,4,12,13,positive,SPECIALIZE
+24k x?ng ?áng h?n mùa 4 kh?i xem,0,0,1,2,positive,OTHER
+bài c?a su và pháp ki?u quá hay,0,5,6,7,positive,SPECIALIZE
+nói v? x?ng ?áng thì vàng 24 nh?c hay h?n h?n th? n?a,5,6,,,positive,SPECIALIZE
+toi th?y b?c mình t?p này ghê không hay gì c?,4,5,7,10,negative,SPECIALIZE
+team bray rap ??nh nghe s??ng tai bên ngoài,0,1,2,8,positive,SPECIALIZE
+theo toi mong ekip mùa sau làm t?t h?n ch? th?c s? cast gánh còng l?ng,,,,,negative,TECHNICAL
+hy v?ng mikelodic s? vô ??ch vì nhac c?a mike r?t hay và t?o ?c nhi?u bài hit ? rap vi?t v? phía,2,2,0,5,positive,SPECIALIZE
+hy v?ng mikelodic s? vô ??ch vì nhac c?a mike r?t hay và t?o ?c nhi?u bài hit ? rap vi?t v? phía,7,9,10,20,positive,SPECIALIZE
+t?p trao gi?i sao không th?y karik nói gì h?t v?y ta v?,6,6,0,11,neutral,APPEARANCE
+có ai th?y karik b?t th??ng ? l? trao gi?i không,3,3,0,10,neutral,APPEARANCE
+âm thanh ?êm chung k?t sao chán v?y c?ng nh? là,0,4,5,7,negative,TECHNICAL
+?úng là trình hlv quá ??ng c?p,2,3,4,6,positive,APPEARANCE
+ki?u này ch?c khó có mùa 3 trên là,5,6,,,neutral,SPECIALIZE
+k?t qu? x?ng ?áng . nhìn 2t th?y th??ng th??ng,0,1,2,3,positive,SPECIALIZE
+k?t qu? x?ng ?áng . nhìn 2t th?y th??ng th??ng,6,6,8,9,positive,OTHER
+t?p này có nhi?u ??o c? ghê,0,1,2,6,positive,TECHNICAL
+c?m ?n rv3 ?ã cho t 1 mùa hè tuy?t v?i nhé h?n n?a,2,2,0,10,positive,OTHER
+xem m?i vanda ch? di?n h? xem chán,2,2,0,7,negative,SPECIALIZE
+tuy nghe anh thái rap không hi?u nh?ng anh ráp hay nh?t và cu?n nh?t ??n phía bên ngoài,2,4,5,6,negative,SPECIALIZE
+tuy nghe anh thái rap không hi?u nh?ng anh ráp hay nh?t và cu?n nh?t ??n phía bên ngoài,8,9,10,14,positive,SPECIALIZE
+h?t nhanh quá à e mu?n có mùa 8 luôn,,,,,positive,OTHER
+"ch??ng trình hay , chúc m?ng double 2t , liu grace va 24k",0,1,2,2,positive,SPECIALIZE
+"ch??ng trình hay , chúc m?ng double 2t , liu grace va 24k",6,12,3,12,positive,OTHER
+team thái vg trình di?n khi?n mình c?m ??ng luôn,0,4,7,8,positive,SPECIALIZE
+t?p này có ngân v?i ng?c h?t th??ng nhau h? jtr,3,5,6,8,positive,APPEARANCE
+ng??i mi?n núi ch?t mãi ??nh c? th?,0,3,4,5,positive,OTHER
+quán quân ?éo gì không x?ng ?áng xu?ng phía bên ngoài là,0,1,4,6,negative,SPECIALIZE
+cha ki?u minh tu?n nhìn g?m c??i ha há gi? trân ,0,3,4,10,negative,APPEARANCE
+ti?t m?c c?a suboi v?i ph?n trình di?n chuyên nghi?p lun gòi,0,7,8,9,positive,SPECIALIZE
+t? nhiên chúc m?ng ch??ng trình lên ???c top trending nha,4,5,2,10,positive,OTHER
+"hu?nh công hi?u , 24k right , double 2t ??u là quán quân trong lòng khán gi? d??i phía ngoài",0,2,11,16,positive,SPECIALIZE
+"hu?nh công hi?u , 24k right , double 2t ??u là quán quân trong lòng khán gi? d??i phía ngoài",4,5,11,16,positive,SPECIALIZE
+"hu?nh công hi?u , 24k right , double 2t ??u là quán quân trong lòng khán gi? d??i phía ngoài",7,8,11,16,positive,SPECIALIZE
+c?m ?n c? ba b?n giám kh?o nhi?u l?m r?i sau ?ó,3,6,,,positive,OTHER
+âm thanh ch?y tr??c hình kìa,0,5,,,negative,TECHNICAL
+khách m?i rap ti?ng campuchia h? mng xu?ng phía bên trong,0,1,2,6,neutral,SPECIALIZE
+"chúc m?ng 2t quá x?ng ?áng , c? mà pha qua nhà anh ?? c?ng trí á",2,2,0,5,positive,OTHER
+"chúc m?ng 2t quá x?ng ?áng , c? mà pha qua nhà anh ?? c?ng trí á",2,2,9,16,positive,OTHER
+ch? nhã ph??ng ??p ch?n ??ng hiuhiu,0,2,3,5,positive,APPEARANCE
+ông karik b? gì v?y chung k?t không nói gì xong t? nhiên không th?y ?âu d??i là,0,1,2,15,negative,APPEARANCE
+nh? là t?p này m?i ?ông mà trò ch?i không vui xíu nào,2,3,4,12,negative,SPECIALIZE
+nh? là t?p này m?i ?ông mà trò ch?i không vui xíu nào,7,8,9,12,negative,SPECIALIZE
+a thành có v? thích ver rap c?a anh b ray,0,1,,,negative,CHARACTERISTIC 
+theo mình t?p này ta th?y anh tú hài vãi ch??ng,6,7,8,10,positive,CHARACTERISTIC 
+thi rap c?ng c?ng ?i?m vùng n?a h?,,,0,7,negative,OTHER
+ch??ng trình nên ??i m?i trò ch?i h?n,0,1,2,7,negative,SPECIALIZE
+tez c?ng r?t xu?t s?c v?y mà không ???c gi?i c?ng h?i t?,0,0,1,4,positive,SPECIALIZE
+tez c?ng r?t xu?t s?c v?y mà không ???c gi?i c?ng h?i t?,0,0,5,12,negative,SPECIALIZE
+ch??ng trình quá hay và th?t ý ngh?a,0,1,2,7,positive,SPECIALIZE
+v?i tui yêu thúy ngân ngây th? ?áng yêu vô cùng,3,4,2,2,positive,OTHER
+v?i tui yêu thúy ngân ngây th? ?áng yêu vô cùng,3,4,5,10,positive,APPEARANCE
+?? ngh? ch??ng trình lo?i d??ng lâm ra dàn cast vì vui h??c r?t coi c??i ?au b?ng mu?n ch?t tin cho,5,6,,,positive,OTHER
+"18:54 nghe hoài ni?m th?t , c? nh? th?i nghe nóng quá nóng quá ?ê c?a bd",,,0,20,positive,SPECIALIZE
+vì ai ?ã s?p ??t nó nh? th? r?i ?úng nh? câu nói c?a 24k phía trên là,,,,,negative,SPECIALIZE
+sao th?i gian phát sóng tr? v?y sao ng??i ta coi ???c c?ng nh? là,1,4,5,11,negative,TECHNICAL
+mình th?y anh tú v?i ch? hà nhi ngoài ??i ?áng yêu x?u luôn,2,7,10,11,positive,APPEARANCE
+tr?i ?i khúc bà d? c?m túi g?o c?a chú b?o v? tui c??i tét rúng,3,4,2,15,positive,APPEARANCE
+thích bài karik vs smo quáa ae ?i,1,4,0,7,positive,SPECIALIZE
+bu?n ghê nha luôn ?ng h? và ch? ??i mùa 3,,,3,10,positive,OTHER
+pha b?t v? thành công c?a anh big phía d??i,,,,,neutral,OTHER
+ph?n cu?i c?a right khi?n mình ph?i suy ngh? r?t nhi?u tin cho,0,3,4,10,positive,OTHER
+bài nh?c chill hay r?t quang hùng và r?i,,,0,6,positive,OTHER
+r?t hay tuy?t v?i c?m ?n ê kíp t? ch?c ch??ng trình gi?i trí v? phía ngoài là,,,0,13,positive,OTHER
+ui khúc ch? y?n hát chung v?i ch? nhi nghe nó ?ã tai gì ?âu nh? th? này,1,8,9,14,positive,SPECIALIZE
+hu?nh công hi?u không có tu?i,0,2,3,5,negative,OTHER
+ki?u là b? g?u hát hay th?t s? ?y t?p này bình ch?n k? ghê,2,3,4,7,positive,SPECIALIZE
+ki?u là b? g?u hát hay th?t s? ?y t?p này bình ch?n k? ghê,9,10,11,14,negative,SPECIALIZE
+toii th?y quang hùng gi?ng h?p v?i hi?u l?m ta làm 1 bài chung ch?n ??ng lun,2,3,4,16,positive,SPECIALIZE
+tr?i ?i t?t lâu qué không có t?p m?i ?? xem nó t?c á,,,,,negative,SPECIALIZE
+??i v?i ai c?ng vui h?t tr?n mà hông có ông lu?t thì h?i chán nhe,,,2,6,neutral,CHARACTERISTIC 
+??i v?i ai c?ng vui h?t tr?n mà hông có ông lu?t thì h?i chán nhe,11,12,8,15,positive,APPEARANCE
+??i v?i ai c?ng vui h?t tr?n mà hông có ông lu?t thì h?i chán nhe,11,12,8,15,negative,SPECIALIZE
+team bray mãi ??nh . respect t?t c?,0,1,2,7,positive,OTHER
+"?êm chung k?t quá nhi?u c?m xúc , ch? có th? nói 1 t? là ??nh trên phía bên trong là",0,2,3,15,positive,SPECIALIZE
+ph?n di?n c?a 2t vs te nghe nghi?n luôn,0,5,6,7,positive,SPECIALIZE
+idol tr?n thành v?a ??c rap vs khóc nhè,0,2,4,8,neutral,APPEARANCE
+bài c?a ông big v?i tez cute x?u còn có,0,5,6,7,positive,SPECIALIZE
+tr oiii bà ngân qu?ng mi?ng nh?t th?t,2,3,4,7,negative,APPEARANCE
+erik ch?i th?y d? th??ng lúc che ch? cho thúy ngân n?u có mùa hai ph?i có erik và thúy ngân nhé bên ph?i là,0,0,1,10,positive,APPEARANCE
+erik ch?i th?y d? th??ng lúc che ch? cho thúy ngân n?u có mùa hai ph?i có erik và thúy ngân nhé bên ph?i là,17,20,11,16,positive,APPEARANCE
+hu?nh công hi?u mãi ??nh trong lòng ng??i hâm m? phía trong là,0,2,4,4,positive,SPECIALIZE
+gi?ng hoàng h?i kh?ng r?t hay th?t ??y xu?ng phía,0,2,3,7,positive,SPECIALIZE
+tôi ch?n vanda,2,2,0,1,positive,OTHER
+th?t s? t?t c? các b?n ai c?ng x?ng ?áng là quán quân xu?ng là,,,0,12,positive,OTHER
+"quá ti?c cho 24k right , gi?i th??ng l?i vào tay c?a 42k left m?i ?au ch? n?u không",3,4,0,1,positive,SPECIALIZE
+"quá ti?c cho 24k right , gi?i th??ng l?i vào tay c?a 42k left m?i ?au ch? n?u không",12,13,6,10,neutral,SPECIALIZE
+ki?u minh tu?n ch?i nh?n chuông h?i c?c tánh không ???c vui,0,2,3,11,negative,CHARACTERISTIC 
+ver 1 c?a hch out c? t?p v? phía bên ngoài là,0,3,4,6,positive,SPECIALIZE
+t?p chung k?t hay nh?t trong 3 mùa,0,2,3,3,positive,OTHER
+thanh âm b? âm r?t nhi?u khó nghe rõ l?i ng??i d?n ch??ng trình m?t khác,0,1,2,13,negative,TECHNICAL
+suboi xinh bi?u c?m cu?n vch,0,0,1,1,positive,APPEARANCE
+suboi xinh bi?u c?m cu?n vch,0,0,2,5,positive,CHARACTERISTIC 
+nghe bài nào c?ng xúc ??ng h?t luôn ý . c?m xúc l?n l?n c?,1,2,0,14,positive,SPECIALIZE
+lúc ??u quay thì ai c?ng ph?n son son ph?n nhé th? mà khi chu?n b? v? nhà thì m?t ai ?ó ?en sì v?y nh?,,,0,25,negative,APPEARANCE
+"n?m sau thì hu? ?i , s?p x?p r phía d??i là",,,6,7,negative,SPECIALIZE
+bu?n ghê h?t m?t tiêu 7 n? c??i xuân r,5,8,0,4,positive,OTHER
+hy v?ng mùa 3 s? ??n th?t s?m ? qua phía là,,,0,8,positive,OTHER
+nói th?t bà suboi ?n m?c t? quá nói th?t luôn,2,3,4,6,negative,APPEARANCE
+ nói d? nhi?u cung b?c c?m xúc th?t hay ghê,,,2,9,positive,OTHER
+ttoi th?y anh big v?i anh wowy gi?ng nhau im l?ng hài h??c nh?ng chi?n th?ng và,,,,,neutral,OTHER
+t?c nhiên bao gi? m?i có mùa 3 nh? ??i lâu quá,6,7,9,10,negative,TECHNICAL
+t?i hay vãi,0,0,1,2,positive,OTHER
+nghe hoàng h?i hát nh?ng bài hát ngày x?a t? d?ng mình c?m th?y tu?i thanh xuân ?ang ùa v? có ai 94 không ?,1,2,,,positive,SPECIALIZE
+th?ng edit video nh? c?c xem chóng c? m?t tin t?c cho,0,2,3,4,negative,TECHNICAL
+ch??ng trình h?i ?u d?n không h?t ?? ?n phía sau gh?,0,1,2,11,negative,TECHNICAL
+ch?c h?n sao có m?y lúc b? m? v?y,,,6,7,negative,TECHNICAL
+bài ??u nghe ong hát là mu?n nhún nh?y theo luôn,3,4,0,10,positive,SPECIALIZE
+có ai c?m th?y ?êm trao gi?i u ám không sau cùng,4,6,7,8,negative,SPECIALIZE
+anh thái tuy?t ??nh n?i h?t da gà ho?c,0,1,2,7,positive,OTHER
+công b? nhìn mike ??ng bên chúc m?ng,3,3,0,7,neutral,APPEARANCE
+chúc m?ng ch??ng trình lên ???c top trending nha,2,3,0,8,positive,OTHER
+ph?n trình di?n c?a team thái vg n?i da gà v?i team br ma m? vãi xu?ng phía bên trong,0,6,7,9,positive,SPECIALIZE
+ph?n trình di?n c?a team thái vg n?i da gà v?i team br ma m? vãi xu?ng phía bên trong,11,12,13,14,positive,SPECIALIZE
+sao mùa 2 có 19 t?p v?y mùa 1 t?n 31 t?p l?n mà,1,2,3,13,negative,TECHNICAL
+sao mùa 2 có 19 t?p v?y mùa 1 t?n 31 t?p l?n mà,7,8,9,13,positive,TECHNICAL
+anh tú ?ó hình nh? là ca s? h? tr? tinh rap vi?t ?úng không ? th?y gi?ng r?t ví d? nh?,0,1,2,18,neutral,APPEARANCE
+chúc m?ng d2t . quá x?ng ?áng cho nh?ng n? l?c c?a b?n và còn,2,2,4,12,positive,OTHER
+team anh big n?m nay xu?t s?c,0,2,3,6,positive,OTHER
+double2t th? là có ti?n tr? n? rùi nói khác,0,0,,,neutral,OTHER
+nh?ng mà t?p này ?ông vui quá t?i bé y?n không tham gia m?y gameshow nên có v? h?i kh?p,2,3,4,6,positive,APPEARANCE
+nh?ng mà t?p này ?ông vui quá t?i bé y?n không tham gia m?y gameshow nên có v? h?i kh?p,9,9,7,19,positive,APPEARANCE
+double 2t m?c b? ?? ?ó nh?n cup quá ??p luôn qua phía bên trong,0,1,2,9,positive,APPEARANCE
+c? ki?u quang hùng ít nói mà d? th??ng quá tr?i ?úng mê ?ng,2,3,4,8,positive,APPEARANCE
+c? ki?u quang hùng ít nói mà d? th??ng quá tr?i ?úng mê ?ng,2,3,12,12,positive,OTHER
+?èn chung k?t t?i quá ?i,0,2,3,3,negative,TECHNICAL
+?? ý anh just lúc ??c tên quán quân anh ch?y lo?ng cho?ng quá tr?i . m?ng quá,2,3,4,17,positive,APPEARANCE
+ngh? là em chúc dàn cast 2 ngày 1 ?êm n?m m?i vui v? mong se gi? nguyên dàn cast cho mùa 3 ?,4,9,10,23,positive,OTHER
+game show th?c s? r?t hay hy v?ng s?p t?i có s? tham gia c?a anh xìn,0,1,2,5,positive,SPECIALIZE
+game show th?c s? r?t hay hy v?ng s?p t?i có s? tham gia c?a anh xìn,15,16,6,16,positive,APPEARANCE
+?êm nay suboi và pháp ki?u r?t là cháy nha ?i theo phía ngoài,2,5,8,8,positive,APPEARANCE
+"mình thích nh?t là ti?t m?c c?a anh c? thái vg , liu grace và mikelodic .",4,15,0,15,positive,SPECIALIZE
+có d? mong qua t?t s? có ph?n ba chúc dàn cast và ch??ng trình s?c kh?e m?i vi?c thu?n l?i may m?n,10,14,9,22,positive,OTHER
+mê anh giang v?i anh b?p 2 ?ng t??ng tác lúc m? con d? th??ng x?u xu?ng phía ngoài là,1,5,13,15,positive,APPEARANCE
+mê anh giang v?i anh b?p 2 ?ng t??ng tác lúc m? con d? th??ng x?u xu?ng phía ngoài là,1,5,0,0,positive,OTHER
+quán quân v?n là ti?t m?c cu?i cùng ?ó là,,,0,7,neutral,SPECIALIZE
+em yêu anh thái vg . t? hào v? anh xu?ng phía bên ngoài,2,4,0,9,positive,OTHER
+t?t nhiên quá mê ?ôi môi tr? ?y,4,5,,,neutral,OTHER
+ra mùa 3 luôn ?i thôi ??ng th?y ai n?a ?? nguyên ?àn cat,,,0,5,positive,SPECIALIZE
+ra mùa 3 luôn ?i thôi ??ng th?y ai n?a ?? nguyên ?àn cat,,,6,13,positive,APPEARANCE
+sao gi?i th?p v?y nh? . mk nh? mùa 1 là 1 t? cho quán quân mà nh? lên phía là,1,1,2,17,negative,SPECIALIZE
+sao gi?i th?p v?y nh? . mk nh? mùa 1 là 1 t? cho quán quân mà nh? lên phía là,1,1,2,2,negative,APPEARANCE
+2pilz xu?t hi?n m?i chung k?t mà t mê 2pilz quá tr ?i lên phía ngoài,0,0,1,12,positive,APPEARANCE
+nh? là xem m?i th?y cris yêu v? quá,,,,,neutral,OTHER
+gi?ng thái vg v?n hay và ng?t ngào nh? ngày nào,1,2,0,10,positive,SPECIALIZE
+cute x?u luôn á v? phía bên trong,,,0,0,positive,APPEARANCE
+nhã ph??ng trang ?i?m trông khác quá,0,1,2,5,positive,APPEARANCE
+ông vanda mu?n nói ??nh vãi và,0,1,4,5,positive,OTHER
+bigdady hu?n luy?n viên nghiêm túc làm t?t nh?t rap vi?t mua 3 trên phía bên ngoài là,0,0,4,5,positive,CHARACTERISTIC 
+bigdady hu?n luy?n viên nghiêm túc làm t?t nh?t rap vi?t mua 3 trên phía bên ngoài là,0,0,1,12,positive,SPECIALIZE
+bigdady hu?n luy?n viên nghiêm túc làm t?t nh?t rap vi?t mua 3 trên phía bên ngoài là,9,12,,,positive,SPECIALIZE
+câu tr? l?i sai mà ta 402 ?âu ph?i 420,,,0,3,negative,SPECIALIZE
+thái vg rap n?i da gà quá tuy?t,0,2,3,7,positive,SPECIALIZE
+ch? nhã ph??ng ít tham gia game show á t?i mê ch? ph??ng r?t à phía ph?i là,0,2,,,neutral,APPEARANCE
+chúc m?ng chúc m?ng thành công . tuy?t v?i,,,0,8,positive,OTHER
+bray quá ch?t b?i vì,0,0,1,2,positive,OTHER
+hi?n nhiên lúc ch?y hình ?nh b? m? quá,4,5,6,7,negative,TECHNICAL
+t?p này vui quá thích 3 khách m?i nh?t là voi b?n ?ôn,0,1,2,3,positive,OTHER
+t?p này vui quá thích 3 khách m?i nh?t là voi b?n ?ôn,5,12,4,4,positive,OTHER
+trò cu?i nó c? không hay l?m b? loãng không khí quan ?i?m cá nhân d??i phía bên trong là,0,1,4,8,positive,SPECIALIZE
+tr oiii mùa sau m?i quang hùng ch?i nha ch??ng trình ?i,9,10,2,8,neutral,SPECIALIZE
+karik lúc nào di?n c?ng r?t là ch?t,0,0,7,7,positive,SPECIALIZE
+bài tez v?i bigdady ph?n chorus gi?ng bài ghép môi c?a osad v?y,0,5,6,11,neutral,SPECIALIZE
+tuy không ph?i fan nh?ng hay l?m ? truy?n thông cho,,,0,7,positive,OTHER
+lâu lâu m?i coi 1 t?p mà v?n hay,,,,,positive,SPECIALIZE
+ui hch cháy ác flow nu?t beat,1,1,2,2,positive,APPEARANCE
+ui hch cháy ác flow nu?t beat,1,1,4,6,positive,SPECIALIZE
+?ã th?a mãn khi xem thái vg di?n trên sân kh?u t?i vn . thái vg mãi ??nh ra phía,5,6,0,12,positive,SPECIALIZE
+?ã th?a mãn khi xem thái vg di?n trên sân kh?u t?i vn . thái vg mãi ??nh ra phía,14,15,16,17,positive,OTHER
+"team big quán quân coi b? big h?i cô ??n nh? , ông 2t toàn ??ng bên bray cu?i cùng nh?t",,,,,neutral,OTHER
+nh?c c?a thái vg nghe xu?t s?c n?i c? da gà thông báo,0,3,4,6,positive,SPECIALIZE
+tr?n thành là không th? thi?u trong rap vi?t mãi m?n,0,1,3,10,positive,SPECIALIZE
+"2t x?ng ?áng làm quán quân luông . quá hay , quá xu?t s?c v? m?t",0,0,1,13,positive,SPECIALIZE
+karik gi?n ra m?t không thèm xu?ng hay phát bi?u gì luôn mà,0,0,1,12,neutral,APPEARANCE
+hy v?ng s? g?p l?i trong rap vi?t mùa 4 và nhi?u mùa khác h?n n?a,6,9,0,4,positive,OTHER
+quán quân rap vi?t nh?ng l?i t?ch ? vòng tuy?n ch?n rap moi h?n n?a,0,3,6,12,neutral,OTHER
+có ai b? nh? tôi không nhi?u qu?ng cáo vãi ?ái nh?t là cái qu?ng cáo vim toàn 15s k? c?,7,8,6,10,negative,TECHNICAL
+anh tú v?i ch? hà nhi ngoài ??i ?áng ái x?u luôn v? phía bên ngoài,0,5,8,9,positive,APPEARANCE
+"2t he realy deserved to be anh champion , god luck in your journey bro",,,,,neutral,OTHER
+ai sao thì sao 3 mùa v?n mê karik ráp nh?t làm cho,8,8,0,10,positive,SPECIALIZE
+c?p ng?c v?i chú lu?t c??i chêt tui ?úng nh? v?y,0,4,5,7,positive,APPEARANCE
+d? nhiên tr?i ?i ?ang suy coi 7 n? c??i xuân r?ng hàm ,7,10,2,12,positive,SPECIALIZE
+sao xem mà th??ng anh karik c?a t v?y r?i,4,5,3,3,positive,OTHER
+ba tóc tiên càng ngày càng x?u vay makeup thi s?n,0,2,3,10,negative,OTHER
+ch??ng trình to mà âm thanh r?t t?,0,1,2,2,negative,SPECIALIZE
+ch??ng trình to mà âm thanh r?t t?,4,6,0,7,negative,TECHNICAL
+indiek ??m b?o sau ch??ng trình c?c k? phát tri?n luôn,0,0,1,10,positive,OTHER
+v? m?t hình ?nh b? nhòe khi di chuy?n nhanh,2,3,4,9,negative,TECHNICAL
+"top 3 hoàn toàn x?ng ?áng , bài c?a team bray quá hay luôn sau ?ây",0,1,2,5,positive,SPECIALIZE
+"top 3 hoàn toàn x?ng ?áng , bài c?a team bray quá hay luôn sau ?ây",7,10,11,13,positive,SPECIALIZE
+m?i k?t qu? ??u x?ng ?áng chúc m?ng 2t và 24k,2,3,4,9,positive,OTHER
+suboi ??nh quá d??i phía bên ngoài là,0,0,1,2,positive,OTHER
+theo toi bà ngân b? nh?t mà thi?u b? th?y thi?u thi?u ki?u gì ?y 2 3 t?p v?a r?i không có b? t kh có h?ng xem luôn,2,3,4,5,negative,CHARACTERISTIC 
+theo toi bà ngân b? nh?t mà thi?u b? th?y thi?u thi?u ki?u gì ?y 2 3 t?p v?a r?i không có b? t kh có h?ng xem luôn,2,3,4,28,positive,APPEARANCE
+t?p này c??i té gh? luôn luôn mong 7 n? ra th?t nhi?u mùa n?a ?,0,1,2,15,positive,SPECIALIZE
+nh? là ae h? ki?u cái n?t ru?i không sai ?i ???c,2,4,5,11,neutral,SPECIALIZE
+te tuy?t v?i 2t th?t may m?n khi có big và te 2 ông anh ??a em lên ra phía bên ngoài,0,0,1,2,positive,OTHER
+te tuy?t v?i 2t th?t may m?n khi có big và te 2 ông anh ??a em lên ra phía bên ngoài,3,3,4,17,positive,OTHER
+te tuy?t v?i 2t th?t may m?n khi có big và te 2 ông anh ??a em lên ra phía bên ngoài,9,11,,,neutral,OTHER
+mê b? ngân r?t 2 t?p không có ngân chán òm luôn th?m chí,1,2,0,0,positive,OTHER
+mê b? ngân r?t 2 t?p không có ngân chán òm luôn th?m chí,1,2,4,11,positive,APPEARANCE
+hãnh di?n là ng??i con khmer . vanda mãi ??nh và c?ng,7,7,9,9,positive,OTHER
+qu? suboi ft vanda ?ã cái tai n?u không,1,3,4,6,positive,SPECIALIZE
+nên thay cast ?i ??i hi?u th? hai ?i bên trong là,5,7,,,negative,SPECIALIZE
+âm thanh khúc g?n cu?i rè khó ch?u th?,0,1,5,5,negative,TECHNICAL
+nghe team anh thai ?úng vip thi?t,1,3,5,5,positive,OTHER
+theo toi sao t?p này ki?u th?y ?ông nh?ng mà c?m giác ch?i ch?a ?ã nha,3,4,6,14,negative,SPECIALIZE
+mình không tìm th?y bài hát c?a quang hùng hát trong ch??ng trình,,,,,neutral,OTHER
+v?i tôi 24k x?ng ?áng quán quân,2,2,3,4,positive,OTHER
+bray ??nh quá,0,0,1,2,positive,OTHER
+t?i sao th?ng ?ó l?i ???c quán quân,2,3,,,neutral,OTHER
+ph?i xem l?i ph?n c?a team bray 5 l?n . ??nh th?t s?,3,6,0,12,positive,SPECIALIZE
+má tez ??nh fast flow nghe rõ t?ng ch? k sót 1 ch? tr? v?,1,1,2,12,positive,SPECIALIZE
+cho tui h?i ?êm chung k?t ông karik có v?n ?? gì th?,5,6,,,neutral,OTHER
+th?c t? giang c?ng d? ghia còn ng?c v?i ngân 10? h?ng có nh?ng,2,2,3,5,positive,APPEARANCE
+th?c t? giang c?ng d? ghia còn ng?c v?i ngân 10? h?ng có nh?ng,7,9,10,13,positive,OTHER
+"quán quân hài vcl , gi?i này có c?ng ?i?m vùng mi?n không ae nh?",0,1,2,3,positive,CHARACTERISTIC 
+r?t x?ng ?áng 2t khiêm t?n bi?t trên bi?t d??i r?t ch?u khó và l?ng nghe m?c dù,3,3,0,2,positive,OTHER
+r?t x?ng ?áng 2t khiêm t?n bi?t trên bi?t d??i r?t ch?u khó và l?ng nghe m?c dù,3,3,4,15,positive,CHARACTERISTIC 
+hôm nay vui mà c??i quá tr?i luôn chúc cho 7 n? th?t nhi?u s?c kh?e,,,0,6,positive,OTHER
+hôm nay vui mà c??i quá tr?i luôn chúc cho 7 n? th?t nhi?u s?c kh?e,10,11,8,16,positive,OTHER
+nghe k?t qu? là th?y không ?ng r ?ó tuy nhiên,1,2,5,6,negative,SPECIALIZE
+ông cris t?p này th? ??ng quá,0,1,2,6,negative,APPEARANCE
+bài c?a ông big v?i tez cute x?u,0,5,6,7,positive,SPECIALIZE
+ki?u là ch??ng trình v?n hay nh?ng mà không có ?o?n phim cu?i h?i bu?n xíu,2,3,4,5,positive,SPECIALIZE
+ki?u là ch??ng trình v?n hay nh?ng mà không có ?o?n phim cu?i h?i bu?n xíu,2,3,4,15,neutral,OTHER
+hôm nay vui mà c??i r?t tr?i luôn chúc cho 7 n? th?t nhi?u s?c kh?e qua,,,0,6,positive,OTHER
+hôm nay vui mà c??i r?t tr?i luôn chúc cho 7 n? th?t nhi?u s?c kh?e qua,10,11,8,15,positive,OTHER
+andre nay m?c vest ??p trai quá ra phía bên ngoài,0,3,4,7,positive,APPEARANCE
+t?c là mua 3 ??ng m?i ki?u minh tu?n,,,2,8,negative,SPECIALIZE
+v?i toi tung hoang d? ch??ng x?u,,,2,8,negative,SPECIALIZE
+th? nh?ng mong ch? mùa 3 quá hãy gi? l?i dàn cast c? nhé tr??ng trình,2,3,4,6,positive,CHARACTERISTIC 
+"bray a hi?u 24kr n?i da gà , th?t s? quá kh?ng",0,3,4,6,positive,OTHER
+2t vô ??ch ch?ng t? ch??ng trình không có chuy?n s?p x?p k?ch b?ng .,0,0,1,13,positive,SPECIALIZE
+2t vô ??ch ch?ng t? ch??ng trình không có chuy?n s?p x?p k?ch b?ng .,5,6,7,13,positive,SPECIALIZE
+ch?ng hi?u sao nghe anh thái rap vers ti?ng anh mà mình l?i r?ng r?ng,4,5,0,14,positive,SPECIALIZE
+woke up t?p này lên sân d? th??ng quá ch?i v?,0,1,6,7,positive,APPEARANCE
+bài c?a smo vs karik hay th?t ngoài ra,0,4,5,6,positive,SPECIALIZE
+giai ?i?u t?t c? bài hát quang hùng ??u nghe b?t tai m?c dù,0,8,8,11,positive,SPECIALIZE
+th?c s? tu?n này có ch? ngân là vui l?m r?i nha,5,6,,,positive,APPEARANCE
+??i v?i negav ?áng yêu quá,2,2,3,4,positive,APPEARANCE
+có ai th?y ti?ng thu h?i b? bé không nh?,,,5,7,neutral,TECHNICAL
+không liên quan nh?ng ph?i nói là karik xinh trai quá,7,7,0,10,neutral,APPEARANCE
+tao lao nha nhung em rap r?t hay lai không ???c vào top 5 . hum,3,5,7,7,positive,SPECIALIZE
+tao lao nha nhung em rap r?t hay lai không ???c vào top 5 . hum,3,3,9,13,negative,SPECIALIZE
+anh thái vg c?t ti?ng hát tau mu?n r?ng h?t tr?ng ah . yêu anh thái vg hehe phía trái là,0,2,3,11,positive,SPECIALIZE
+anh thái vg c?t ti?ng hát tau mu?n r?ng h?t tr?ng ah . yêu anh thái vg hehe phía trái là,14,16,13,17,positive,OTHER
+th?ng cu raper rap chán nh?,0,2,3,5,negative,OTHER
+chúc m?ng 2t mãi ??nh,2,2,0,1,positive,OTHER
+chúc m?ng 2t mãi ??nh,2,2,3,4,positive,OTHER
+anh thái bao n?m v?n quá cháy trên phía bên ngoài là,0,1,5,6,positive,OTHER
+?m ghê h?t m?t tiêu 7 n? c??i xuân r h?n n?a,5,8,0,4,positive,OTHER
+thg ??u h?ng nhát nhép pháp ki?u tez smo là hay còn l?i bình th??ng,0,2,3,4,negative,SPECIALIZE
+thg ??u h?ng nhát nhép pháp ki?u tez smo là hay còn l?i bình th??ng,5,8,10,10,positive,SPECIALIZE
+th?y khách m?i t?p này là h?t mu?n coi lên,,,0,8,negative,APPEARANCE
+ph?i th?ng raider quán quân là n?m sao ??i thành hát vi?t r?i ti?c ghê vào,1,2,3,14,negative,SPECIALIZE
+thúy ngân d?o này nhìn khuôn m?t h?i là l? phía ngoài là,0,1,5,9,negative,APPEARANCE
+có nhi?u bài hay nh?ng em v?n mê ch? ki?u vs suboi,8,11,0,11,positive,OTHER
+d??ng lâm v?i criss vui vãi ch??ng dù sao,0,3,4,6,positive,CHARACTERISTIC 
+bài c?a tez vs big lyrics vs beat cháy,0,4,5,8,positive,SPECIALIZE
+"mê bray quá ráp quá ??nh , quán quân 2t quá x?ng ?áng trên phía ngoài",1,1,0,5,positive,SPECIALIZE
+"mê bray quá ráp quá ??nh , quán quân 2t quá x?ng ?áng trên phía ngoài",7,9,10,12,positive,SPECIALIZE
+k?t qu? ok nh?ng n?u 24k là quán quân thì ok h?n n?a qua phía,0,1,2,12,positive,SPECIALIZE
+k?t qu? ok nh?ng n?u 24k là quán quân thì ok h?n n?a qua phía,5,5,6,8,neutral,SPECIALIZE
+tez vs big v?a h? v?a hay . mi?n chê,0,2,3,9,positive,CHARACTERISTIC 
+hic . anh te và 2t quá hay . nghe ?i nghe l?i luôn,2,5,0,13,positive,SPECIALIZE
+e ?y x?ng ?áng d??i là,0,1,2,3,positive,OTHER
+mê b? ngân quá 2 t?p không có ngân chán òm luôn,1,2,0,0,positive,OTHER
+mê b? ngân quá 2 t?p không có ngân chán òm luôn,1,2,4,11,positive,APPEARANCE
+ti?c cho team bray quá trên phía ngoài là,2,3,0,0,positive,OTHER
+nói d? hôm nay m?i có tg xem b? g?u b? lo?i ti?c quá l? ra t?p này cú tây b?c lo?i m?i v?a ý tui ý ki?n riêng cú không có gì ??t phá mà bcv khen l?y khen ??,8,9,10,13,positive,SPECIALIZE
+nói d? hôm nay m?i có tg xem b? g?u b? lo?i ti?c quá l? ra t?p này cú tây b?c lo?i m?i v?a ý tui ý ki?n riêng cú không có gì ??t phá mà bcv khen l?y khen ??,29,29,30,34,negative,SPECIALIZE
+d2t quán quân hay không thì gi? v?n hot hit nh?t r?i ^ ?ó là,0,0,1,11,positive,SPECIALIZE
+v?n c? thích th?y trò anh bâu v?i quang anh nh?t phía bên trong là,3,9,0,11,positive,SPECIALIZE
+v?n c? thích th?y trò anh bâu v?i quang anh nh?t phía bên trong là,5,9,2,2,positive,OTHER
+tóm g?n coi hoài chán ??i c?a tr??ng giang ?n gian th?y s?,5,8,9,12,negative,APPEARANCE
+tóm g?n coi hoài chán ??i c?a tr??ng giang ?n gian th?y s?,,,2,4,negative,OTHER
+bài không nón nghe hay vui vãi,0,2,3,6,positive,OTHER
+ch??ng trình chia timestamp chán th?t s?,0,1,2,6,negative,TECHNICAL
+"thích bài c?a team bray quá , bài double c?ng xu?t s?c n?a",1,4,0,0,positive,OTHER
+"thích bài c?a team bray quá , bài double c?ng xu?t s?c n?a",7,8,10,11,positive,SPECIALIZE
+nói th?t r?t thích nh?ng trò k?u này vui l?m bên trong là,4,7,2,3,positive,OTHER
+nói th?t r?t thích nh?ng trò k?u này vui l?m bên trong là,4,7,8,9,positive,SPECIALIZE
+ti?c cho team bray quá,2,3,0,0,negative,OTHER
+"?o?n rap c?a thái ch?t th?t , nó n?m ? cái t?m th? gi?i",0,3,4,13,positive,SPECIALIZE
+??i h?u c?n chu?n b? v?t d?ng nhi?u th?t còn c?,0,2,4,8,positive,TECHNICAL
+"k?t qu? ?ã ???c s?p ??t s?n , nh?ng chúng ta s? có quán quân c?a chính mình",0,1,3,6,negative,SPECIALIZE
+m?t mùa rap v?a cùi b?p v?a hài xu?ng,0,2,3,7,negative,OTHER
+mê m?i d2t v?i 24k mong m?t trong hai chi?n th?ng qua phía bên trong là,2,4,0,10,positive,OTHER
+"masew sau ch??ng trình này h?i b? giàu , x5 ti?n n? c?a 2t c? mà qua phía bên trong là",0,0,1,15,positive,OTHER
+ki?u là sao khúc ??u video b? m? v?y,3,5,6,7,negative,TECHNICAL
+ti?c cho 24k v?y ta chúc m?ng ng??i mi?n núi ch?t,2,2,0,0,positive,OTHER
+ti?c cho 24k v?y ta chúc m?ng ng??i mi?n núi ch?t,7,11,5,6,positive,OTHER
+có bray nên m?i theo dõi rap vi?t sau 3 mùa thì show này v?n rác thi?t,1,1,0,7,negative,OTHER
+có bray nên m?i theo dõi rap vi?t sau 3 mùa thì show này v?n rác thi?t,9,10,8,16,negative,OTHER
+có thuý ngân vô là y bài vui nh?n h?n h?n,1,2,0,10,positive,APPEARANCE
+qu?ng cáo gì mà 4 phút 1 lân,,,0,7,negative,TECHNICAL
+quán quân nh? l,0,1,2,3,negative,SPECIALIZE
+"nh?c 1 màu , flow 4 vòng nh? 1 , ??t quán quân",,,0,2,negative,SPECIALIZE
+"nh?c 1 màu , flow 4 vòng nh? 1 , ??t quán quân",,,4,8,negative,SPECIALIZE
+team anh b?o mãi ??nh th?t s? còn n?a,0,2,3,4,positive,OTHER
+quán quân m?t ki?m n? c??i quá,0,1,2,6,negative,APPEARANCE
+ngân quay tr? l?i thì v?n nh? v?y thôi vui nh?t r?i mà ch?i game d? n?a thì coi là xong c?nh báo,0,0,9,10,negative,APPEARANCE
+ngân quay tr? l?i thì v?n nh? v?y thôi vui nh?t r?i mà ch?i game d? n?a thì coi là xong c?nh báo,0,0,13,15,negative,SPECIALIZE
+raper s? 1 ?na mà sao nghe không l?t nh? còn c?,0,3,6,9,negative,SPECIALIZE
+anh thái tuy?t ??nh n?i h?t da gà,0,1,2,7,positive,OTHER
+"mike , 24k ai th?ng c?ng vui , còn l?i chê bên trong là",0,2,6,6,positive,OTHER
+sao không th?y ai khen ti?t m?c c?a rider h?t v?y,5,8,1,4,neutral,OTHER
+2t nh?n gi?i khiêm t?n ghê á,0,0,1,6,positive,SPECIALIZE
+team anh b?o v?a ngông v?a hay . ch?t ph?i nghe l?i nhi?u l?n nghi?n th?t s?,0,2,3,4,positive,CHARACTERISTIC 
+team anh b?o v?a ngông v?a hay . ch?t ph?i nghe l?i nhi?u l?n nghi?n th?t s?,0,2,5,16,positive,SPECIALIZE
+vanda hát hay v?y sao ch?u n?i tr?i phía bên ngoài,0,0,1,7,positive,SPECIALIZE
+toii th?y mê thuý ngân quá ?i t?p này b? cute d? luôn,3,4,2,2,positive,OTHER
+toii th?y mê thuý ngân quá ?i t?p này b? cute d? luôn,3,4,10,10,positive,APPEARANCE
+"thái vg ??nh nh?t , hy v?ng mùa sau anh v?n còn góp m?t",0,2,2,13,positive,SPECIALIZE
+ki?u ki?u vui và hay nh?ng ph?i d? và lây l?i n?a là h?t n??c ch?m,,,2,4,positive,SPECIALIZE
+ki?u ki?u vui và hay nh?ng ph?i d? và lây l?i n?a là h?t n??c ch?m,,,6,15,neutral,SPECIALIZE
+m?i ninh d??ng lan ng?c ?i ? b?o ??m s? vui h?n ?úng nh? v?y,1,4,,,positive,SPECIALIZE
+khúc bà d? c?m túi g?o c?a chú b?o v? tui c??i tét rúng nh? v?y là,1,2,0,13,positive,APPEARANCE
+team bâus không có ai top 5 luôn c? à v?,0,1,,,neutral,SPECIALIZE
+vòng này andre nh??ng h?t sân kh?u cho rhyder luôn,2,2,0,9,positive,SPECIALIZE
+ai c?ng hay c? n?m nay th?t quá xu?t s?c lun .,0,0,2,2,positive,OTHER
+h?t nhanh r?t à e mu?n có mùa 8 luôn d??i phía bên ngoài là,,,,,neutral,OTHER
+bài nào c?ng hay . quán quân x?ng ?áng . chúc m?ng em v? phía bên trong,0,1,2,3,positive,SPECIALIZE
+bài nào c?ng hay . quán quân x?ng ?áng . chúc m?ng em v? phía bên trong,5,6,7,12,positive,SPECIALIZE
+hình nh? nói th?t r?t thích nh?ng trò k?u này vui l?m,6,9,4,5,positive,OTHER
+hình nh? nói th?t r?t thích nh?ng trò k?u này vui l?m,6,9,10,11,positive,SPECIALIZE
+"chung k?t mà âm thanh thì rè , ?èn thì t?i hù",3,4,6,6,negative,TECHNICAL
+"chung k?t mà âm thanh thì rè , ?èn thì t?i hù",8,8,10,11,negative,TECHNICAL
+ông thái ?i verse nghe us-uk vcl . nghe mê,0,1,8,9,positive,SPECIALIZE
+tóm g?n t?p này ch? y?n d? th??ng m?i ng??i hài x?u,2,3,4,7,positive,APPEARANCE
+tóm g?n t?p này ch? y?n d? th??ng m?i ng??i hài x?u,8,9,10,11,positive,CHARACTERISTIC 
+không th?y anh karik nói n?ng gì g??ng m?t y nh? không hài lòng ?i?u gì ?y,2,3,0,16,neutral,APPEARANCE
+ch?t l?i nh?c anh thái m?i là quá hay,2,4,8,8,positive,SPECIALIZE
+ti?t m?c c?a anh thái th? gi?i quá phía trên là,0,4,5,7,positive,SPECIALIZE
+mình th?y xu?t s?c nha mong gia ?ình 7 n? không ??i ai h?t ?,,,2,3,positive,OTHER
+mình th?y xu?t s?c nha mong gia ?ình 7 n? không ??i ai h?t ?,6,9,10,12,positive,APPEARANCE
+công nh?n huy lúc nào c?ng ? v? trí nh?nh h?n ng??i ta không t? giác quá h?n thua,2,2,13,18,negative,APPEARANCE
+t?p này m?y trò ch?i r?t hay luôn m?i m? thú v? nay ?ông ?? r?n ràng vui c??i ra n??c m?t luôn á chèn ?i bên d??i là,0,1,2,15,positive,APPEARANCE
+"không hi?u ti?ng anh nh?ng ?o?n c?a anh thái nghe m??t , b?t tai ph?t truy?n ??n",5,8,0,14,positive,SPECIALIZE
+xin chúc m?ng ng??i mi?n núi ch?t - double2t trên phía là,8,8,1,2,positive,OTHER
+th? mà b? lo?i moi rap c?a anh ??,,,,,neutral,OTHER
+rõ r?t m?i ?ây ?ã h?t 1 mùa r?i bu?n quá mog mùa 8 mau tr? l?i,,,2,16,positive,OTHER
+bigdady ng?i gh? c?a wowy ?? l?i có khác nh? . bray ng?i gh? karik c?ng may d??i phía là,0,0,1,9,neutral,OTHER
+bigdady ng?i gh? c?a wowy ?? l?i có khác nh? . bray ng?i gh? karik c?ng may d??i phía là,4,4,,,neutral,OTHER
+bigdady ng?i gh? c?a wowy ?? l?i có khác nh? . bray ng?i gh? karik c?ng may d??i phía là,11,11,12,17,neutral,OTHER
+bigdady ng?i gh? c?a wowy ?? l?i có khác nh? . bray ng?i gh? karik c?ng may d??i phía là,14,14,,,neutral,OTHER
+khán gi? có v? không hi?u khách l?m nh? . không th?y v? tay gì c?,0,1,2,16,negative,OTHER
+t? b? theo dõi rap vi?t t? ?ây lên phía là,,,,,neutral,OTHER
+coi t?p nào t?p ý c??i r?t hàm luôn u?ng n??c mà ph?t ??y nhà phía trái là,1,3,4,6,positive,OTHER
+cap mãi ??nh bên ngoài là,0,0,1,2,positive,OTHER
+??i d?i cu?i cùng có thúy ngân ch? l?i c?m th?y vui h?n,5,6,,,positive,APPEARANCE
+2t ra bài nào nghe ??u hay nghe k? nó r?t v?n hoá và ???c khán gi? ?ón nh?n .,0,2,4,6,positive,SPECIALIZE
+2t ra bài nào nghe ??u hay nghe k? nó r?t v?n hoá và ???c khán gi? ?ón nh?n .,0,2,10,18,positive,SPECIALIZE
+ph?n trình di?n c?a 2t v?i jt nghe bao nhêu l?n không chán,0,8,7,12,positive,SPECIALIZE
+bray hu?nh công hi?u tuy?t v?i,0,3,4,5,positive,OTHER
+bài 2t vs justate hay quá k?t qu? quán quân x?ng ?áng chúc m?ng qua phía ngoài là,0,3,4,4,positive,SPECIALIZE
+qu?ng cáo gì mà 4 phút 1 lân phía trái là,,,0,7,negative,TECHNICAL
+t?p chung k?t 1 không tìm th?y luôn . rapviet ??t này làm ?n chán quá qua phía ngoài là,0,3,4,7,negative,TECHNICAL
+t?p chung k?t 1 không tìm th?y luôn . rapviet ??t này làm ?n chán quá qua phía ngoài là,9,9,10,15,negative,OTHER
+tms band nh?c ?ánh phê nh?t là tay tr?ng kinh th?t,0,1,2,10,positive,SPECIALIZE
+tôi là tôi th?y x?ng ?áng nhé vì nh?c b?n ?y làm r?t d? ??n g?n v?i khán gi?,,,3,5,positive,SPECIALIZE
+"không ng? bài c?a vanda hát ??n nghe x?n vãi , remix lên ??nh th?t",2,4,0,14,positive,SPECIALIZE
+anh thái bao ng?u,0,1,2,3,positive,APPEARANCE
+bài chung k?t c?a jus mùa này d? h?n 2 mùa tr??c nh?n bi?t,0,4,7,7,negative,SPECIALIZE
+chúc m?ng 2t ?ã nh?n ???c gi?i th??ng tình th??ng qua phía,2,2,3,9,negative,SPECIALIZE
+t?p này ??i ngô ki?n huy ?n gian th?y bà ?àn anh nh? con t?c ra phía bên ngoài,2,5,6,14,negative,APPEARANCE
+ae ?? t?c làm vi?c ch?m ch? quá,0,2,3,7,positive,OTHER
+ai sao thì sao 3 mùa v?n mê karik ráp nh?t,8,8,0,10,positive,SPECIALIZE
+team bray nh? m?t g? th?t s? quá ??nh,0,1,7,8,positive,OTHER
+ki?u minh tu?n ch?i nh?n chuông h?i c?c tánh không ???c vui phía trong là,0,2,3,11,negative,CHARACTERISTIC 
+"rap vi?t mùa 3 quá ??nh luôn , chúc t?t c? thí sinh s? th?t thành công ra",0,3,5,5,positive,SPECIALIZE
+double mà quán quân mùa 4 t không coi,0,0,,,negative,SPECIALIZE
+ê ê ?a bé ki?u em cua ki?u minh tu?n có ph?i tr? lý c?a ng?c trinh không ,,,,,neutral,OTHER
+mình ngh? có ch? ngân m?i ?? màu s?c 7 n? nha,3,4,2,11,positive,APPEARANCE
+m?nh d?ng ?oán 24k right quán quân nh?ng,3,4,0,7,neutral,OTHER
+b? g?u lo?i là k mu?n xem luôn,0,1,2,7,negative,SPECIALIZE
+ch?c có mình tui th?y double t2 rap nh? c,5,6,7,9,negative,SPECIALIZE
+eo ?i cái bài c?a h?a kim tuy?n l?i hay quá,2,7,8,9,positive,SPECIALIZE
+ch??ng trình này r?t hay vui h??c và vui nh?n bên ngoài là,0,2,3,9,positive,SPECIALIZE
+bài c?a ?ôi andre d? quá k bùng cháy,0,3,3,9,positive,SPECIALIZE
+không ngh? b? g?u b? lo?i luôn hay ?n ??nh mà ta ?i theo phía bên trong,2,3,4,5,negative,SPECIALIZE
+không ngh? b? g?u b? lo?i luôn hay ?n ??nh mà ta ?i theo phía bên trong,2,3,7,9,positive,SPECIALIZE
+xin h?i t?i sao ch??ng trình ?? v? cris ôm chó sáng bàn ?n ??c bi?t bên c?nh có em bé sau cu?i,7,8,9,20,negative,SPECIALIZE
+"ti?t m?c c?a team bray ??nh vãi , v?a coi xong là ph?i replay 2 l?n luôn",0,4,5,16,positive,SPECIALIZE
+t?p này b? g?u cháy th?t s? r?t ti?c vì anh ?ã b? lo?i ?áng l? anh ph?i ?i xa h?n voi,2,3,4,4,positive,SPECIALIZE
+t?p này b? g?u cháy th?t s? r?t ti?c vì anh ?ã b? lo?i ?áng l? anh ph?i ?i xa h?n voi,0,1,4,4,positive,SPECIALIZE
+"d2t x?ng ?áng th?t s? , ti?c cho pháp ki?u v?i melodic",0,0,1,4,positive,OTHER
+"d2t x?ng ?áng th?t s? , ti?c cho pháp ki?u v?i melodic",8,11,6,11,positive,OTHER
+2t ki?u nh?c ??n gi?n và nhân cách t?t ??p . ?ây là 1 quán quân x?ng ?áng nh?t n?i b?,0,0,1,4,positive,CHARACTERISTIC 
+2t ki?u nh?c ??n gi?n và nhân cách t?t ??p . ?ây là 1 quán quân x?ng ?áng nh?t n?i b?,0,0,6,9,positive,CHARACTERISTIC 
+2t ki?u nh?c ??n gi?n và nhân cách t?t ??p . ?ây là 1 quán quân x?ng ?áng nh?t n?i b?,0,0,11,18,positive,SPECIALIZE
+ki?u là ch??ng trình hay quá hay luôn,2,3,4,7,positive,SPECIALIZE
+dàn cast v?a x?n mà v?a duyên dáng,0,1,3,3,positive,SPECIALIZE
+dàn cast v?a x?n mà v?a duyên dáng,0,1,3,9,positive,APPEARANCE
+thêm quang hùng vào ?? kéo fan thái lan qua h?p lí,,,,,neutral,OTHER
+?o?n công b? l?i không có nhac nên làm mình xem không th?y gây c?n . hi?u ?ng,0,1,4,14,negative,TECHNICAL
+d2t quá là x?ng ?áng ý ch? h?i ti?c cho hch k? c?,0,1,3,4,positive,SPECIALIZE
+c??i bò luôn r?t tr?ng thích ch??ng trình này d??i phía ngoài,,,0,2,positive,SPECIALIZE
+c??i bò luôn r?t tr?ng thích ch??ng trình này d??i phía ngoài,6,8,3,5,positive,OTHER
+rap vi?t mùa 3 r?t thành công và quá tuy?t v?i . chúc m?ng t?t c?,0,3,4,15,positive,SPECIALIZE
+rap vi?t mùa 3 r?t thành công và quá tuy?t v?i . chúc m?ng t?t c?,0,3,4,10,positive,SPECIALIZE
+thích nh?t màn trình di?n c?a team thai vg và just tate,2,11,0,1,positive,SPECIALIZE
+t ?éo tin là dick không ???c quán quân luon nh? là,4,4,5,8,negative,OTHER
+ng??i mi?n núi ch?t mình v?n thích,0,3,6,6,positive,SPECIALIZE
+m? c?a huy có m?t làm mình c?m ??ng ghê bác nhìn phúc h?u th?c s? làm nh? quê r?t cu?i cùng,0,2,3,19,positive,APPEARANCE
+có hi?n t??ng tr? ti?ng gi?a hình ?nh và thanh âm nh?ng t?o nên s? thú v? và vui h??c h?n n?a,6,10,0,5,negative,TECHNICAL
+có hi?n t??ng tr? ti?ng gi?a hình ?nh và thanh âm nh?ng t?o nên s? thú v? và vui h??c h?n n?a,6,10,,,positive,TECHNICAL
+m?y tri?u l??t xem mà l??t like ít r?t v? phía,,,,,neutral,OTHER
+doubtle 2t c?ng ???c nh?ng không ?? trình làm quán quân bên ngoài là,0,1,2,10,neutral,SPECIALIZE
+"thích bài big v?i tez vaiz , gi?ng big hay vaiz ?i",1,4,0,0,positive,OTHER
+"thích bài big v?i tez vaiz , gi?ng big hay vaiz ?i",7,8,9,9,positive,SPECIALIZE
+negav l? phép quá ??ng d?y m?i m? b?p ?n c?m,0,0,1,3,positive,CHARACTERISTIC 
+negav l? phép quá ??ng d?y m?i m? b?p ?n c?m,0,0,4,10,positive,APPEARANCE
+n?u 2t không là quán quân c?ng là ng??i thành công nh?t ? rap vi?t .,1,1,2,14,positive,OTHER
+chúc m?ng d2t ?ã dành ???c v? trí quán quân,2,2,0,9,positive,SPECIALIZE
+mùa này t?p nào c?ng c??i không ng?ng luôn á,0,1,2,7,positive,OTHER
+hoàng h?i hay th? mà không ?i ti?p,0,1,2,7,negative,SPECIALIZE
+chúc m?ng tu ti ?? ti?n tr? beat ùi kéo theo,2,2,0,9,positive,SPECIALIZE
+mình ngh? ch? cóa ch? yêu xinh ??p thui thúy ngân,9,10,4,7,positive,APPEARANCE
+ch??ng trình qu?ng cáo nhi?u quá,0,1,2,5,negative,TECHNICAL
+db 2t quá x?ng ?áng . chúc m?ng a,0,1,2,4,positive,OTHER
+"anh ty quá d? th??ng , anh nói hay quá",0,1,2,4,positive,CHARACTERISTIC 
+"anh ty quá d? th??ng , anh nói hay quá",6,6,7,9,positive,APPEARANCE
+th??ng trai hà nam,,,,,neutral,OTHER
+có ?i?m tr? là ch? là v? cris không nên mang con pét lên bàn ti?c bên ngoài là,6,7,8,15,negative,APPEARANCE
+má ?i . chú thái vg rap ?o?n ti?ng anh ??nh vãi lìn nghe n?i da gà vào ?ó là,3,5,6,16,positive,SPECIALIZE
+mình ngh? qu?ng cáo quá nhi?u xem m?t h?ng,2,3,4,5,negative,TECHNICAL
+?a nay không c?n b?t video n?a nê vie chanel truy?n thông ?i,8,9,3,5,negative,TECHNICAL
+công nh?n 2t quán quân r?c trai mà khiêm t?n ghê,2,2,5,6,positive,APPEARANCE
+công nh?n 2t quán quân r?c trai mà khiêm t?n ghê,2,2,8,9,positive,CHARACTERISTIC 
+nh? có vandan nên nhi?u ng??i xem nh? v?y,2,2,0,8,positive,OTHER
+tính ra anh giang d? th??ng t?t tính mà ?ôi khi t?t quá cái b? ghét ha,2,3,4,7,positive,CHARACTERISTIC 
+tính ra anh giang d? th??ng t?t tính mà ?ôi khi t?t quá cái b? ghét ha,2,3,14,15,negative,OTHER
+tính ra anh giang d? th??ng t?t tính mà ?ôi khi t?t quá cái b? ghét ha,2,3,,,neutral,OTHER
+báo và dick ?ã xu?t hi?n ? vòng này,0,2,,,neutral,APPEARANCE
+vs toii má ?i ông lu?t nói câu nào c??i ?iên câu ??y,4,5,6,12,positive,APPEARANCE
+ph?n trình di?n c?a ??i bray quá ??nh xem mà n?i da gà,0,5,6,12,positive,APPEARANCE
+"k?t qu? rác , thua xa mùa 1 2 ?ó là",6,8,0,2,negative,SPECIALIZE
+??i vs b?t nh?ng trò va cham l?i làm h? tr? em ,,,2,11,negative,SPECIALIZE
+khúc ??u video b? m? r?t v?y nói cách khác,0,2,3,4,negative,TECHNICAL
+t?c là ninh d??ng lan ng?c nhan s?c ??nh cao,2,5,6,9,positive,SPECIALIZE
+c?m ?n ch??ng trình c?m ?n các v? hu?n luy?n viên c?m ?n rap vi?t bên ngoài là,2,3,,,positive,OTHER
+c?m ?n ch??ng trình c?m ?n các v? hu?n luy?n viên c?m ?n rap vi?t bên ngoài là,6,10,,,positive,OTHER
+c?m ?n ch??ng trình c?m ?n các v? hu?n luy?n viên c?m ?n rap vi?t bên ngoài là,13,14,,,positive,OTHER
+c?m ?n ch??ng trình c?m ?n các v? hu?n luy?n viên c?m ?n rap vi?t bên ngoài là,2,3,,,positive,OTHER
+c?m ?n ch??ng trình c?m ?n các v? hu?n luy?n viên c?m ?n rap vi?t bên ngoài là,6,10,,,positive,OTHER
+c?m ?n ch??ng trình c?m ?n các v? hu?n luy?n viên c?m ?n rap vi?t bên ngoài là,13,14,,,positive,OTHER
+??i bray r?t gi?ng c?a krik mùa m?t .,0,1,,,neutral,OTHER
+trong t?t c? các team tui th?y team anh bâu c? flop sao á,8,10,0,13,positive,SPECIALIZE
+"t? hào team big dady , iu anh big dady và anh d??ng k do ?ó",2,4,0,1,positive,OTHER
+"t? hào team big dady , iu anh big dady và anh d??ng k do ?ó",7,13,6,6,positive,OTHER
+thua mike nh?ng th?ng rap vi?t d? nhiên,,,,,neutral,OTHER
+ch?c h?n ông hùng ??p trai thi?t xem ông t? ?? nh?t m?u sinh ghi?n ?ng,2,3,4,6,positive,APPEARANCE
+ch?c h?n ông hùng ??p trai thi?t xem ông t? ?? nh?t m?u sinh ghi?n ?ng,2,3,7,15,positive,OTHER
+ch??ng trình lên video s?m h?n ???c không và sau ?ó,0,1,2,7,negative,TECHNICAL
+tôi h?i th?t v?ng vì không có t? ??i gerdnang trong chung k?t n?m nay lên phía là,7,9,0,14,positive,SPECIALIZE
+s? này vinh ng?c chung ??i thích vãi,0,5,6,7,positive,SPECIALIZE
+vs tui quang hi?u ??p trai hát hay quá,2,3,4,5,positive,APPEARANCE
+nói v? bà lan ng?c b? y nh? con trai v?y ?ó tr?i m? bà n?n l?n b? r?i,2,4,6,9,neutral,APPEARANCE
+mùa này các ph?n thi chung k?t cháy th?t,2,6,7,8,positive,SPECIALIZE
+trình v?y quán quân c?ng hay bên trái là,2,3,,,negative,SPECIALIZE
