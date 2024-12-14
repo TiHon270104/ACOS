@@ -3,10 +3,8 @@ from torch.utils.data import DataLoader
 from transformers import AdamW, get_linear_schedule_with_warmup
 from tqdm import tqdm
 
-from models.base_model import ACOSModel
-from utils.data import ASODataset
-from utils.loss import ACOSLoss
-from utils.metrics import ACOSMetrics
+from models import ACOSModel
+from utils import ASODataset, ACOSLoss, ACOSMetrics
 from config import config
 
 def train():
